@@ -4,7 +4,7 @@
 ![Untitled design](https://github.com/user-attachments/assets/ad7c2c9c-df67-47cf-9fac-1f88fbad15bf)
 
 
-Welcome to **MilkyShop**, your go-to destination for a delightful array of ice creams and treats. Our platform offers a seamless shopping experience with a variety of products, easy cart management, and a responsive design to suit all devices.[Visit MilkyShop](https://rajmiltonn.github.io/MilkyShop/)
+Welcome to **MilkyShop**, your go-to destination for a delightful array of ice creams and treats. Our platform offers a seamless shopping experience with a variety of products, easy cart management, and a responsive design to suit all devices.[Visit MilkyShop](https://rajmiltonn.github.io/Milky-Shop/)
 
 ## Features
 
@@ -27,7 +27,7 @@ Welcome to **MilkyShop**, your go-to destination for a delightful array of ice c
 
 ## Additional Information
 
-- **Visit the Project**: Explore MilkyShop and start shopping by visiting our [website](https://rajmiltonn.github.io/MilkyShop/).
+- **Visit the Project**: Explore MilkyShop and start shopping by visiting our [website](https://rajmiltonn.github.io/Milky-Shop/).
 
 ## Contact
 
